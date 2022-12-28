@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=suhyeon&fontSize=90" />
+
+
+  <h1>Hi I'm suhyeon 👋</h1>
+  
+  <a href="https://okcoder.tistory.com/">블로그</a>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeon21&layout=compact&theme=dracula)
 
 <!--
 **suhyeon21/suhyeon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
