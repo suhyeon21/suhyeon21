@@ -1,13 +1,19 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=suhyeon&fontSize=90" />
-
-
-  <h1>Hi I'm suhyeon 👋</h1>
+<div>
+  <h1>👋 I'm Suhyeon</h1>
   
+  <h2>📜 Tech Blog</h2>
   <a href="https://okcoder.tistory.com/">블로그</a>
+  
+  <h2>🏷️ Cards</h2>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeon21&layout=compact&theme=dracula)
 
+  <h2>📫 Contacts</h2>
+  Email ( suhyeon.kan@gmail.com )
+  
+  
+  
+  
 <!--
 **suhyeon21/suhyeon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
